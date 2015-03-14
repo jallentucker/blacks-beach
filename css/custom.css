@@ -62,3 +62,7 @@ footer {
 	margin-left: 9px;
 	margin-right: 9px;
 }
+
+.old {
+	text-decoration: line-through;
+}
